@@ -1,18 +1,18 @@
 # NeuralNetwork
-¥H1¼h input 1¼h hidden 1¼h output ¡A¥H¤U¬°°V½m®É§ïÅÜÅv­«­È¤§¼Æ¾Ç±À­Ë¹Lµ{</br></br>
-![demo](https://github.com/Alex-CHUN-YU/NeuralNetwork/blob/master/image/demo.png)</br></br>
+ä»¥1å±¤ input 1å±¤ hidden 1å±¤ output ï¼Œä»¥ä¸‹ç‚ºè¨“ç·´æ™‚æ”¹è®Šæ¬Šé‡å€¼ä¹‹æ•¸å­¸æ¨å€’éç¨‹</br></br>
+![demo](https://github.com/Alex-CHUN-YU/NeuralNetwork_Demo/blob/master/image/demo.png)</br></br>
 
-## ¨Ï¥Î¤è¦¡
+## ä½¿ç”¨æ–¹å¼
 Input:</br>
 ```
-1.°õ¦æ neural_network.py 
-2.µ{¦¡¤¤¿é¤Jªº data
-¿é¤J data:
+1.åŸ·è¡Œ neural_network.py 
+2.ç¨‹å¼ä¸­è¼¸å…¥çš„ data
+è¼¸å…¥ data:
 [0,1,1]
 [0,1,1]
 [1,1,1]
 [1,0,1]
-¹w´Á¿é¥X data:
+é æœŸè¼¸å‡º data:
 [0]
 [0]
 [1]
@@ -37,10 +37,10 @@ Output after traning
  [ 0.99723057]]
 ```
 
-## ¶}µoÀô¹Ò
+## é–‹ç™¼ç’°å¢ƒ
 Python 3.5.2</br>
 pip install numpy</br>
 
-## ­PÁÂ
-WMMKS ¾Çªø</br>
-Siraj Raval youtube ±Ğ¾Ç(Build a Neural Net in 4 Minutes)</br>
+## è‡´è¬
+WMMKS å­¸é•·</br>
+Siraj Raval youtube æ•™å­¸(Build a Neural Net in 4 Minutes)</br>
