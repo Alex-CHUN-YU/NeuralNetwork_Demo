@@ -1,2 +1,46 @@
-# NeuralNetwork_Demo
-NeuralNetwork åŸºæ–¼æœ€åŸºæœ¬çš„ Back Propagation é€²è¡Œå­¸ç¿’
+# NeuralNetwork
+¥H1¼h input 1¼h hidden 1¼h output ¡A¥H¤U¬°°V½m®É§ïÅÜÅv­«­È¤§¼Æ¾Ç±À­Ë¹Lµ{</br></br>
+![demo](https://github.com/Alex-CHUN-YU/NeuralNetwork/blob/master/image/demo.png)</br></br>
+
+## ¨Ï¥Î¤è¦¡
+Input:</br>
+```
+1.°õ¦æ neural_network.py 
+2.µ{¦¡¤¤¿é¤Jªº data
+¿é¤J data:
+[0,1,1]
+[0,1,1]
+[1,1,1]
+[1,0,1]
+¹w´Á¿é¥X data:
+[0]
+[0]
+[1]
+[1]
+```
+Output:</br>
+```
+Error:0.472341171698
+Error:0.0172567538663
+Error:0.0116280592805
+Error:0.00928031972489
+Error:0.00792244386867
+Error:0.00701366941342
+Error:0.00635222626448
+Error:0.00584371996314
+Error:0.0054374123008
+Error:0.00510331685603
+Output after traning
+[[ 0.00481738]
+ [ 0.00481738]
+ [ 0.99311339]
+ [ 0.99723057]]
+```
+
+## ¶}µoÀô¹Ò
+Python 3.5.2</br>
+pip install numpy</br>
+
+## ­PÁÂ
+WMMKS ¾Çªø</br>
+Siraj Raval youtube ±Ð¾Ç(Build a Neural Net in 4 Minutes)</br>
